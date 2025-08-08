@@ -1,1 +1,2 @@
-# Labs\nPractice labs, walkthroughs, and reports.
+# Labs
+Practice labs, walkthroughs, and reports.

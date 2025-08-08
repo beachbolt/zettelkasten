@@ -1,1 +1,2 @@
-# English\nEssays, grammar rules, and reading notes.
+# English
+Essays, grammar rules, and reading notes.

@@ -1,1 +1,2 @@
-# History\nTimeline notes, important events, and biographies.
+# History
+Timeline notes, important events, and biographies.

@@ -1,1 +1,2 @@
-# Python\nNotes and code snippets while learning Python.
+# Python
+Notes and code snippets while learning Python.

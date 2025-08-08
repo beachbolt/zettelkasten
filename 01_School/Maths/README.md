@@ -1,1 +1,2 @@
-# Maths\nThis folder contains math concepts, formulas, and solved problems.
+# Maths
+This folder contains math concepts, formulas, and solved problems.

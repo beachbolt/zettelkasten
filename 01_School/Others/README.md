@@ -1,1 +1,2 @@
-# Others\nOther school subjects or mixed topics.
+# Others
+Other school subjects or mixed topics.

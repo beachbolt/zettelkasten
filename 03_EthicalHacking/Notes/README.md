@@ -1,1 +1,2 @@
-# Hacking Notes\nConcepts, tutorials, and tools explanations.
+# Hacking Notes
+Concepts, tutorials, and tools explanations.

@@ -1,1 +1,2 @@
-# Projects\nPersonal programming projects and ideas.
+# Projects
+Personal programming projects and ideas.

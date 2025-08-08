@@ -1,1 +1,2 @@
-# Web Development\nHTML, CSS, JavaScript and web design projects.
+# Web Development
+HTML, CSS, JavaScript and web design projects.

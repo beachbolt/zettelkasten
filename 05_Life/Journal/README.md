@@ -1,1 +1,2 @@
-# Journal\nDaily or weekly logs and reflections.
+# Journal
+Daily or weekly logs and reflections.

@@ -1,1 +1,2 @@
-# French\nVocabulary, grammar, and practice sentences.
+# French
+Vocabulary, grammar, and practice sentences.
